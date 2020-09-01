@@ -4,6 +4,12 @@ namespace Expert_SRP
 {
     public class Kiosco 
     {
+        
+        /*
+no cumple con SRP, ya que si el cambio del dolar se modifica, la clase no es experta en la información necesaria
+para cumplir con la responsabilidad y por ende se deberia modificar la misma
+
+*/
         public Boolean PuedeComprar(Alfajor a, Double dinero, String moneda) 
         {
             Double pesos = ConvertirAPesos(dinero, moneda);
