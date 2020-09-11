@@ -4,6 +4,9 @@
 ## Facultad de Ingeniería y Tecnologías
 ### Programación II
 
+
+
+ HOLA VICKY 
 ### Sistema de consultas médicas
 
 #### ✍ Parte 1 
